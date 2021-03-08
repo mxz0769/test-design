@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="08afa614-2a70-437b-9663-cbaef7e8699e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1nPwEkdLDIngO5eqoZQvtHXpi3O" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="PHP Script.index.php">
+    <configuration name="index.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/imooc/index.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/index.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.index.php" />
+        <item itemvalue="JavaScript Debug.index.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="08afa614-2a70-437b-9663-cbaef7e8699e" name="Default Changelist" comment="" />
+      <created>1611304924614</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611304924614</updated>
+      <workItem from="1611304925848" duration="40257000" />
+      <workItem from="1611889447347" duration="8789000" />
+      <workItem from="1613616878218" duration="11649000" />
+      <workItem from="1614580561549" duration="944000" />
+      <workItem from="1615184281444" duration="1820000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="220" y="147" key="#CLI_Interpreters" timestamp="1611536575315">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="220" y="147" key="#CLI_Interpreters/0.0.1280.984@0.0.1280.984" timestamp="1611536575315" />
+    <state x="266" y="170" key="#Inspections" timestamp="1611629779263">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="266" y="170" key="#Inspections/0.0.1280.984@0.0.1280.984" timestamp="1611629779263" />
+    <state x="322" y="133" key="#PHP" timestamp="1611536578210">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="322" y="133" key="#PHP/0.0.1280.984@0.0.1280.984" timestamp="1611536578210" />
+    <state x="484" y="494" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1611642204579">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="484" y="494" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1280.984@0.0.1280.984" timestamp="1611642204579" />
+    <state x="420" y="247" key="FileChooserDialogImpl" timestamp="1614581505743">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="420" y="247" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1614581505743" />
+    <state width="1237" height="263" key="GridCell.Tab.0.bottom" timestamp="1615184296448">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="263" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1615184296448" />
+    <state width="1237" height="263" key="GridCell.Tab.0.center" timestamp="1615184296448">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="263" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1615184296448" />
+    <state width="1237" height="263" key="GridCell.Tab.0.left" timestamp="1615184296448">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="263" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1615184296448" />
+    <state width="1237" height="263" key="GridCell.Tab.0.right" timestamp="1615184296448">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="263" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1615184296448" />
+    <state width="618" height="325" key="GridCell.Tab.1.bottom" timestamp="1611536487869">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="618" height="325" key="GridCell.Tab.1.bottom/0.0.1280.984@0.0.1280.984" timestamp="1611536487869" />
+    <state width="618" height="325" key="GridCell.Tab.1.center" timestamp="1611536487869">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="618" height="325" key="GridCell.Tab.1.center/0.0.1280.984@0.0.1280.984" timestamp="1611536487869" />
+    <state width="618" height="325" key="GridCell.Tab.1.left" timestamp="1611536487869">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="618" height="325" key="GridCell.Tab.1.left/0.0.1280.984@0.0.1280.984" timestamp="1611536487869" />
+    <state width="618" height="325" key="GridCell.Tab.1.right" timestamp="1611536487869">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="618" height="325" key="GridCell.Tab.1.right/0.0.1280.984@0.0.1280.984" timestamp="1611536487869" />
+    <state width="618" height="325" key="GridCell.Tab.2.bottom" timestamp="1611536487869">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="618" height="325" key="GridCell.Tab.2.bottom/0.0.1280.984@0.0.1280.984" timestamp="1611536487869" />
+    <state width="618" height="325" key="GridCell.Tab.2.center" timestamp="1611536487869">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="618" height="325" key="GridCell.Tab.2.center/0.0.1280.984@0.0.1280.984" timestamp="1611536487869" />
+    <state width="618" height="325" key="GridCell.Tab.2.left" timestamp="1611536487869">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="618" height="325" key="GridCell.Tab.2.left/0.0.1280.984@0.0.1280.984" timestamp="1611536487869" />
+    <state width="618" height="325" key="GridCell.Tab.2.right" timestamp="1611536487869">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="618" height="325" key="GridCell.Tab.2.right/0.0.1280.984@0.0.1280.984" timestamp="1611536487869" />
+    <state x="391" y="210" key="NewPhpClassDialog" timestamp="1611536157146">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="391" y="210" key="NewPhpClassDialog/0.0.1280.984@0.0.1280.984" timestamp="1611536157146" />
+    <state x="456" y="414" key="NewPhpFileDialog" timestamp="1611888894899">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="456" y="414" key="NewPhpFileDialog/0.0.1280.984@0.0.1280.984" timestamp="1611888894899" />
+    <state x="141" y="136" key="SettingsEditor" timestamp="1614581513454">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="141" y="136" key="SettingsEditor/0.0.1280.984@0.0.1280.984" timestamp="1614581513454" />
+    <state x="303" y="211" width="672" height="678" key="search.everywhere.popup" timestamp="1614581453198">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="303" y="211" width="672" height="678" key="search.everywhere.popup/0.0.1280.984@0.0.1280.984" timestamp="1614581453198" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/IMooc/Config.php</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
