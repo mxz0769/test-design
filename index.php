@@ -107,4 +107,6 @@ $proxy->setUserName(1,'zhaoliu');
 $config = new \IMooc\Config(__DIR__.'/configs');
 var_dump($config['controller']);
 
-echo '11111111111';
+class Test{
+
+}
